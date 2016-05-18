@@ -10,5 +10,5 @@ Further documentation is available from the 'view' links below.
 |        Name          |  Description     |        URL                                                   |
 |----------------------|------------------|--------------------------------------------------------------|
 | nettools           |  A base plugin that creates a top level menu entry. | [view](https://github.com/mclarkson/obdi-nettools) |
-| rsyncbackup   |  Network backup using rsync. | [view](https://github.com/mclarkson/obdi-rsyncbackup) |
+| rsyncbackup   |  Network backup using rsync. Features deduplication, compression and snapshots.| [view](https://github.com/mclarkson/obdi-rsyncbackup) |
 
