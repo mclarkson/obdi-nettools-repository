@@ -1,0 +1,6 @@
+{
+  "name": "Obdi-nettools-repository",
+  "tagline": "",
+  "body": "# obdi-nettools-repository\r\nRepository metadata store for Obdi system plugins.\r\n\r\nAdd `https://github.com/mclarkson/obdi-nettools-repository.git` to Repository URLs in the Obdi Admin interface.\r\n\r\nFurther documentation is available from the 'view' links below.\r\n\r\n## Contains\r\n\r\n|        Name          |  Description     |        URL                                                   |\r\n|----------------------|------------------|--------------------------------------------------------------|\r\n| nettools           |  A base plugin that creates a top level menu entry. | [view](https://github.com/mclarkson/obdi-nettools) |\r\n| rsyncbackup   |  Network backup using rsync. Features deduplication, compression and snapshots.| [view](https://github.com/mclarkson/obdi-rsyncbackup) |\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
